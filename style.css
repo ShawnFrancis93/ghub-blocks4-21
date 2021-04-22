@@ -1,0 +1,59 @@
+#hotbod{
+    background-color: rgb(240, 240, 240);
+    color:rgb(71, 68, 68);
+    width:690px;
+    margin: 20px;
+    
+}
+#hotbody.div{
+    margin:0px;
+}
+.title{
+    font-size: 45px;
+    margin:0px;
+    text-align:center;
+    margin:10px
+}
+#lvl1{
+    background-color:aqua;
+    margin: 0px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+#lvl1 img{
+    height:200px;
+    margin:15px 10px 10px;
+
+}
+
+#lvl2{
+    background-color:plum;
+    margin: 0px;
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+
+}
+#lvl2 img{
+    height:200px;
+    margin:15px 10px;
+}
+
+#lvl3{
+    background-color:white;
+    margin:0px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+#lvl3 img{
+    height: 200px;
+    margin:20px 10px 10px 10px;
+}
+
+
+
